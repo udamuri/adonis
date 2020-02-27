@@ -32,3 +32,7 @@ Run the following command to run startup migrations.
 ```js
 adonis migration:run
 ```
+
+### Postman File
+adonis.postman_collection.json
+
