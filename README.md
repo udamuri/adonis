@@ -1,8 +1,8 @@
 # Adonis API application
-
-1. git clone https://github.com/udamuri/adonis.git 
-2. cd adonis
-3. then run `npm install`
+1. https://adonisjs.com/docs/4.1/installation (install adonis)
+2. git clone https://github.com/udamuri/adonis.git 
+3. cd adonis
+4. then run `npm install`
 
 ## Setup
 1. sudo cp .env.example .env
@@ -26,7 +26,8 @@ HASH_DRIVER=bcrypt
 3. Migrations and seeds
 4. adonis test (run unit test)
 
-### Migrations
+### Migrationsclear
+git
 Run the following command to run startup migrations.
 
 ```js
